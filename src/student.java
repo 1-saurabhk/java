@@ -1,5 +1,6 @@
-public class student {
+// creating a student class
 
+public class student {
 
     public int id;
     public int age;
