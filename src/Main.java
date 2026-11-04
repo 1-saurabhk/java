@@ -10,6 +10,7 @@ public class Main {
         A.study();
         A.bunk();
         A.sleep();
+//        A.gfChatting();
 
         student B = new student(A);
         System.out.println(B.name);
