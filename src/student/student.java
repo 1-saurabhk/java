@@ -1,4 +1,4 @@
-// creating a student class
+package student;// creating a student.student class
 
 public class student {
 

@@ -1,3 +1,5 @@
+package student;
+
 public class Main {
     public static void main() {
         student A = new student("Saurabh", 47, 23, 7, "Tina");
