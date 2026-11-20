@@ -6,7 +6,7 @@ public class student {
     public int age;
     public String name;
     public int nos;
-    private String gf;
+    protected String gf;
 
 
     //constructor
